@@ -1,6 +1,6 @@
 {
   "name": "phantomjs-polyfill-includes",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "A simple Array.prototype.includes polyfill to phantomJS console browser. Based in MDN specification",
   "main": "includes-polyfill.js",
   "scripts": {
