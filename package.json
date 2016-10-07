@@ -1,14 +1,14 @@
 {
   "name": "phantomjs-polyfill-includes",
-  "version": "0.0.1",
-  "description": "A simple Array.prototype.includes polyfill to phantomJS. Based in MDN specification",
+  "version": "0.1.0",
+  "description": "A simple Array.prototype.includes polyfill to phantomJS console browser. Based in MDN specification",
   "main": "includes-polyfill.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Earthlandto/phantomjs-polyfill-includes.git"
+    "url": "git+https://github.com/Neuromobile/phantomjs-polyfill-includes.git"
   },
   "keywords": [
     "polyfill",
@@ -18,7 +18,7 @@
   "author": "Alberto López Sánchez",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Earthlandto/phantomjs-polyfill-includes/issues"
+    "url": "https://github.com/Neuromobile/phantomjs-polyfill-includes/issues"
   },
-  "homepage": "https://github.com/Earthlandto/phantomjs-polyfill-includes#readme"
+  "homepage": "https://github.com/Neuromobile/phantomjs-polyfill-includes#readme"
 }
