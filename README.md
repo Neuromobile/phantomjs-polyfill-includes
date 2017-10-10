@@ -1,5 +1,5 @@
 # phantomjs-polyfill-includes
-A simple Array.prototype.includes polyfill to phantomJS commnad line browser. Based in MDN specification
+A simple Array.prototype.includes polyfill to phantomJS command line browser. Based in MDN specification
 
 MIT License
 
@@ -11,7 +11,7 @@ MIT License
 
 ## Usage with Karma
 
-Include the polyfill directly in the files list of your karma.conf
+Include the polyfill directly in the files list of your karma.conf.
 
 ```
     ...
